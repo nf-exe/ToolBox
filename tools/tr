@@ -74,13 +74,3 @@ Output:
 Hello World
 ```
 
----
-
-## 💡 Tips
-
-- `tr` only works with **stdin**, so use it with pipes (`|`) or input redirection (`<`).
-- Character ranges like `a-z` and `A-Z` make commands shorter and easier to read.
-- You can combine options such as `-ds`.
-
----
-
