@@ -1,6 +1,6 @@
 # tr
 
-## 📖 What is `tr`?
+## What is `tr`?
 
 `tr` (translate) is a Linux command used to **translate, replace, delete, or squeeze characters** from standard input.
 
@@ -8,7 +8,7 @@ Unlike many commands, `tr` **does not read files directly**, so it's commonly us
 
 ---
 
-## 🎯 Common Uses
+## Common Uses
 
 - Replace characters
 - Convert lowercase to uppercase
@@ -18,7 +18,7 @@ Unlike many commands, `tr` **does not read files directly**, so it's commonly us
 
 ---
 
-## 💻 Examples
+## Examples
 
 ### Convert lowercase to uppercase
 
